@@ -31,9 +31,10 @@ Este é um projeto simples de um sistema bancário implementado em Python. O có
 
 1. Clone o repositório para o seu ambiente local:
 
-   ```bash
+ ```bash
    git clone https://github.com/ruanovski/Sistema-bancario
-
+   ```
+   
 2.Navegue até o diretório do projeto:
 
    ```bash
