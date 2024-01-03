@@ -1,10 +1,10 @@
-# Sistema Bancário Simples em Python 🏦
+# Sistema Bancário Simples em Python - v2🏦
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ruanovski/Sistema-bancario/blob/main/LICENSE) 
 
 
 ## Descrição do Projeto
 
-Este é um projeto simples de um sistema bancário implementado em Python. O código oferece funcionalidades básicas, como depósito, saque e visualização de extrato, proporcionando uma experiência interativa para o usuário.
+Este é uma segunda versão de um projeto simples já criando de um sistema bancário implementado em Python. O código oferece funcionalidades básicas, como depósito, saque e visualização de extrato, proporcionando uma experiência interativa para o usuário. 
 
 ## Funcionalidades
 
@@ -20,7 +20,13 @@ Este é um projeto simples de um sistema bancário implementado em Python. O có
    - Apresenta um extrato detalhado das transações realizadas.
    - Cada transação é registrada com informações sobre o tipo (depósito ou saque), data e valor.
 
-4. **Encerramento Seguro:**
+4. **Criar usuário**
+   - Cria uma novo usuário
+
+5. **Listar usuários
+  - Lista um novo usuário
+
+6. **Encerramento Seguro:**
    - Permite ao usuário sair do sistema de maneira controlada.
 
 ## Pré-requisitos
